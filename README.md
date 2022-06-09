@@ -8,8 +8,7 @@ shell commands on either the host's operating system or remotely through ssh.
 @contact: me@michaelarnold.io
 
 @author: Eliot Khachi \
-@contact: <ADD_YOUR_EMAIL>
-
+@contact: eliotkh12@gmail.com
 
 ## License
 © 2022 Michael Arnold.
