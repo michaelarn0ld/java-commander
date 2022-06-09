@@ -5,7 +5,11 @@ shell commands on either the host's operating system or remotely through ssh.
 
 ## Contributors
 @author: Michael Arnold \
+<<<<<<< HEAD
 @contact: me@michaelarnold.io \
+=======
+@contact: me@michaelarnold.io
+>>>>>>> 1a401a6 (first commit!)
 
 @author: Eliot Khachi \
 @contact: <ADD_YOUR_EMAIL>
